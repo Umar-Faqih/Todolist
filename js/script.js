@@ -151,7 +151,7 @@ function editTodo(id) {
     document.getElementById('todoStatus').value = todo.status;
     currentEditId = id;
     alert('Anda akan mengedit');
-    window.location.hash = '#tambah';
+    window.scrollTo(0, 0);
   }
 }
 
