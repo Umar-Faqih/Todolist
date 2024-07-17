@@ -1,12 +1,12 @@
 /* navbar */
 .navbar{
-    background-color: rgb(242, 161, 86);
+    background-color: rgb(103, 157, 238);
 }
 body {
-    background-color: bisque;
+    background-color: rgb(196, 229, 255);
 }
 
 .footer {
-    background-color: rgb(173, 107, 46);
+    background-color: rgb(57, 46, 173);
     color: aliceblue;
 }
